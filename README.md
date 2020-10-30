@@ -5,7 +5,7 @@
  
 ## Steps to execute this calculator:
 - Download the entire code 
-- Open up the index.html.
+- Open up the index.html in your browser.
 
 Inspired by Code Spot. You can check the video [here](https://www.youtube.com/watch?v=CI2GwL--ll8&t=157s&ab_channel=CodeSpot)
 
